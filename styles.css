@@ -1,0 +1,38 @@
+
+		#hotelName {
+			color: white;
+			line-height: 2.5;
+			text-align: center;
+			background-color: black;
+			height : 100%;
+			margin: 0;
+			width: 100%;
+		}
+		
+		#firstname { 
+		    
+		    text-align: center;
+		}
+
+		#slogan {
+			color: green;
+		}
+
+		.rooms {
+			color: white;
+			background-color: black;
+		}
+		body { text-align: center;
+			 margin: auto ;
+			 height: 100%;
+			 background-image: url("download.jpeg");
+			 background-size: cover;
+		
+		}
+			
+		#form { text-align: center;
+				top: 50%;
+		}
+			
+			
+	
